@@ -8,6 +8,8 @@ public class GitDo {
 		System.out.println("User 1 changes");
 		
 		System.out.println("User 2 changes");
+		
+		System.out.println("sprint 2 branch");
 
 	}
 
